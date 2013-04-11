@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/N:/Downloads/jstock/../TsePublic.wsdl" uri="xml-resources/jaxb/tsepublic/TsePublic.wsdl"/>
+    <system systemId="http://ww2.tsetmc.com/WebService/TsePublic.asmx?wsdl" uri="xml-resources/jaxb/tsepublic/ww2.tsetmc.com/WebService/TsePublic.asmx.wsdl"/>
+    <system systemId="file:/N:/Downloads/jstock/../XMLSchema.dtd" uri="xml-resources/jaxb/tsepublic/XMLSchema.dtd"/>
+    <system systemId="file:/N:/Downloads/jstock/../xsd.xml" uri="xml-resources/jaxb/tsepublic/xsd.xml"/>
+    <system systemId="file:/N:/Downloads/jstock/../XMLSchema.xsd" uri="xml-resources/jaxb/tsepublic/XMLSchema.xsd"/>
+    <system systemId="file:/N:/Downloads/jstock/../TsePublic.xml" uri="xml-resources/jaxb/tsepublic/TsePublic.xml.wsdl"/>
+    <system systemId="http://www.w3.org/2001/XMLSchema.xsd" uri="xml-resources/jaxb/tsepublic/www.w3.org/2001/XMLSchema.xsd"/>
+</catalog>
